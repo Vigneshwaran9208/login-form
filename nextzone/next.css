@@ -1,0 +1,135 @@
+* {
+    margin: 0%;
+    padding: 0%;
+}
+
+body {
+    width: 100%;
+    background-color: rgb(212, 210, 190);
+
+}
+
+header {
+    display: inline;
+    font-size: 40px;
+    margin-top: 20PX;
+}
+
+nav {
+    text-align: center;
+    display: inline;
+    margin: 300px;
+    padding: 20px;
+
+}
+
+a {
+    display: inline;
+    font-weight: 600;
+    text-decoration: none;
+    text-transform: uppercase;
+    color: black;
+    margin-top: 5px;
+    margin-left: 1px;
+    padding: 20px;
+}
+
+a:hover {
+    color: rgb(207, 61, 187);
+}
+
+hr {
+    padding: 1px;
+    background-color: black;
+    margin-top: 20px;
+}
+
+img {
+    text-align: center;
+    display: inline-block;
+    margin-top: 20px;
+    padding-left: 10px;
+    padding-top: 10px;
+    padding-right: 20px;
+    width: 300px;
+}
+
+div {
+    margin-top: 30px;
+    margin-left: 30px;
+    text-align: center;
+    border-color: black;
+    border-width: 4px;
+    border-style: solid;
+    display: inline-block;
+    width: 340px;
+    padding: 55px;
+    height: 500px;
+
+}
+div:hover {
+    size: 10px;
+
+}
+
+.tshirt {
+    font-size: x-large;
+
+}
+
+.trate {
+    height: 20px;
+    margin-top: 10px;
+    font-size: x-large;
+}
+
+.toff {
+    color: green;
+    font-size: x-large;
+    margin-top: 20px;
+}
+
+.toucer {
+    margin-bottom: 10px;
+
+}
+
+input {
+
+    display: inline;
+    margin-right: 1px;
+    padding: 5px;
+    width: 200px;
+    height: 20px;
+    text-align: center;
+}
+
+.wishlist {
+    display: inline;
+    padding-left: 20px;
+    width: 40px;
+
+}
+
+.login {
+    display: inline;
+    padding-left: 10px;
+    width: 40px;
+
+}
+
+.perfume {
+    margin-bottom: 20px;
+}
+
+.lastline {
+    padding: 2px;
+    margin-bottom: 30px;
+}
+
+h3,
+h4 {
+    margin-bottom: 20PX;
+
+    text-align: center;
+}
